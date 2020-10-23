@@ -27,6 +27,5 @@ def performMath():
             previous = eval(equation)
         else:
             previous = eval(str(previous) + equation)
-        print("You typed", equation)
 while run:
     performMath()
