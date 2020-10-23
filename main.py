@@ -1,4 +1,4 @@
-git import re
+import re
 
 print("Our magical calculator")
 print("Type quit to exit\n")
